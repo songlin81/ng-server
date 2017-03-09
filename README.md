@@ -14,6 +14,28 @@ MEAN Stack简单演示
 	* value
 	* constant
 * $scope `$rootScope`
+* ngCookies
+	* $cookies
+	* $cookieStore
+* ngMessages
+* ngRoute
+* $watch
+* $http
+	* promise
+	* success
+	* error
+* $routeProvider
+* ng-click
+* ng-repeat
+* ng-model
+* ng-bind
+* ng-show
+* ng-hide
+* ng-if
+* ng-include
+* ng-switch
+* directive
+	* link
 
 
 ##有问题反馈
