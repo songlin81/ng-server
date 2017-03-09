@@ -7,12 +7,11 @@ MEAN Stack简单演示
 * ng-controller
 * angular
 	* module
+		* value
+		* constant
 	* run
 	* controller
 	* config
-* module
-	* value
-	* constant
 * $scope `$rootScope`
 * ngCookies
 	* $cookies
@@ -36,7 +35,10 @@ MEAN Stack简单演示
 * ng-switch
 * directive
 	* link
-
+* service
+* factory
+* provider `$get`
+* filter
 
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
